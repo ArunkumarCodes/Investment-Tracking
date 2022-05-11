@@ -1,5 +1,5 @@
 # Investment-Tracking
-# Investment-Tracking In this section, we will create a mini investment tracker software.
+# Investment-Tracking In this section, we will create a mini investment tracker software.(Core Java)
 we will be creating a small investment tracker application using the basics of Java.
 The very  first step will be to accept the buying price per share that the user has purchased.
 Also, we will need to accept the closing price of that share for each day of the week. This is an iterative process to accept the details for all days of week.
